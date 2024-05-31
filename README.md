@@ -16,3 +16,4 @@ yarn install
 ```bash
 npx expo run:ios
 ```
+# audio-player
