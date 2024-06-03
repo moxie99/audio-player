@@ -12,7 +12,7 @@ import { SafeAreaView } from 'react-native-safe-area-context'
 const SongsScreen = () => {
 	const search = useNavigationSearch({
 		searchBarOptions: {
-			placeholder: 'Find in songs',
+			placeholder: 'Find a song',
 		},
 	})
 

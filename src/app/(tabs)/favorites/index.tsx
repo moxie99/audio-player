@@ -11,7 +11,7 @@ import { SafeAreaView } from 'react-native-safe-area-context'
 const FavoritesScreen = () => {
 	const search = useNavigationSearch({
 		searchBarOptions: {
-			placeholder: 'Find in songs',
+			placeholder: 'Find a songs',
 		},
 	})
 

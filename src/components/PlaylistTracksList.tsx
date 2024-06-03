@@ -14,7 +14,7 @@ export const PlaylistTracksList = ({ playlist }: { playlist: Playlist }) => {
 	const search = useNavigationSearch({
 		searchBarOptions: {
 			hideWhenScrolling: true,
-			placeholder: 'Find in playlist',
+			placeholder: 'Find a song in your playlist',
 		},
 	})
 

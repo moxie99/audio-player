@@ -15,7 +15,7 @@ const PlaylistsScreen = () => {
 
 	const search = useNavigationSearch({
 		searchBarOptions: {
-			placeholder: 'Find in playlists',
+			placeholder: 'Find a song in your playlist',
 		},
 	})
 
